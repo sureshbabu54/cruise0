@@ -12,8 +12,8 @@ To specify the application client ID and domain, make a copy of `auth_config.jso
 
 ```json
 {
-  "domain": "tam-dev-env.au.auth0.com",
-  "clientId": "2g5DsiSMVTGZSvUoaqyBW5tH4BPzlHG2"
+  "domain": "{DOMAIN}",
+  "clientId": "{CLIENT_ID}"
 }
 ```
 
